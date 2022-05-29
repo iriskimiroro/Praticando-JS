@@ -11,8 +11,10 @@ String numeroInformadoString  = String.valueOf(numeroInformado); // para poder c
 if(numeroInformado >= 1000 && numeroInformado <= 9999) {
 StringBuilder StringBuilder = new StringBuilder(numeroInformadoString);
 System.out.println(StringBuilder.reverse());
+break; // ele para esse laco
 
-
+  } else if(numeroInformadoString.length()< 4) {
+      System.out.println("O número informado deverá conter 4 digitis!");
   }
    }  while(True);
   }
