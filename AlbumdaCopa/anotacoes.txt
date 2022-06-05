@@ -1,0 +1,5 @@
+Pontos patricados nesses desafios:
+
+- Exercitar a logica de programacao;
+- Entendo sobre as bibliotecas java;
+- Aprendendo sobre entradas e saidas.
